@@ -4,10 +4,10 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'hero-countdown': "url('src/assets/image2.jpeg')",
-        'hero-flower': "url('src/assets/flowers.jpg')",
-        'hero-about': "url('src/assets/image9.jpeg')",
-        'section-about': "url('src/assets/bg-about.webp')",
+        'hero-countdown': "url('/assets/image2.jpeg')",
+        'hero-flower': "url('/assets/flowers.jpg')",
+        'hero-about': "url('/assets/image9.jpeg')",
+        'section-about': "url('/assets/bg-about.webp')",
       },
       fontFamily: {
         title: ['Gilda Display', 'serif'],
